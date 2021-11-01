@@ -1,0 +1,16 @@
+Acme Entertainment Pty Ltd Requirements
+Acme Entertainment have commissioned a prototype movie database, however they want to review 
+and update this application so it can be used across all the major digital platforms. They require a 
+Multi-Platform Report on the merits of the two design options currently used; adaptive and 
+responsive. Your team must choose the best option and rework the prototype; this modified version 
+is to be presented at the Sprint One assessment point by the first Scrum Master. The development 
+or migration of the movie database can be hosted on the cloud or suitable local server. Ensure your 
+Lecturer is advised on this decision. Conduct and record suitable testing of the completed sprint one 
+development, include this information in the Testing Plan.
+
+1. Source Control snapshot
+2. Project Management Plan for Sprint One
+3. Software Development Testing Plan which incorporates the QA standards of CITE
+4. Analysis Report
+5. Multi-Platform Report (adaptive v responsive)
+6. Demonstrate the movie database application which uses the chosen option (adaptive or responsive).
